@@ -1,2 +1,0 @@
-Hi,
-Location Based to-do Reminder can be used by android users to set 'to-do' alarm(s) based on location(s). 
